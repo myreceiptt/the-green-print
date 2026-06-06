@@ -27,7 +27,7 @@ layout:
 
 # 🍌 Heads
 
-[**The Heads**](heads.md) get full support and become a priority in obtaining benefits from the potential of this [**BANANOW.LAND**](https://bananow.endhonesa.com/) that they backing up, to develop their owned **BANANOW** as their brand.
+[**The Heads**](heads.md) get full support and become a priority in obtaining benefits from the potential of this [**BANANOW LAND**](https://bananow.endhonesa.com/) that they backing up, to develop their owned **BANANOW** as their brand.
 
 [**The Heads**](heads.md) do not exist in the **Universe of Reality** and there are only 2345 in the **0101 Universe**. [**Be The Heads**](heads.md) by holding [**the BANANOW NFTs**](../../bananow-nfts/) and joining [**the BANANOW Discord server**](https://bananow.endhonesa.com/discord) now and get the featured benefits, like:
 

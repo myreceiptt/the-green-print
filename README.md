@@ -1,5 +1,5 @@
 ---
-description: An organizational white paper explaining how the BANANOW.LAND will be running.
+description: An organizational white paper explaining how the BANANOW LAND will be running.
 cover: .gitbook/assets/bananow-land.jpeg
 coverY: 458.5333333333333
 layout:
@@ -27,27 +27,27 @@ layout:
 
 # 🍌 The Green Print
 
-Good morning, [**OiOi Fams**](the-ecosystem/the-community/)! Welcome to [**BANANOW.LAND Green Print**](./)!
+Good morning, [**OiOi Fams**](the-ecosystem/the-community/)! Welcome to [**BANANOW LAND Green Print**](./)!
 
 {% hint style="success" %}
-The [**Green Print**](./) is some kind of organizational white paper explaining how the [**BANANOW.LAND**](https://bananow.endhonesa.com/) will be running. By the end of this [**Green Print**](./) if you can't articulate what problem the [**BANANOW.LAND**](https://bananow.endhonesa.com/) tries to solve and how it does so, then this [**Green Print**](./) did a poor job. In fact, a well-articulated [**Green Print**](./) is a sign of a well-thought-out organizatio&#x6E;**.**
+The [**Green Print**](./) is some kind of organizational white paper explaining how the [**BANANOW LAND**](https://bananow.endhonesa.com/) will be running. By the end of this [**Green Print**](./) if you can't articulate what problem the [**BANANOW LAND**](https://bananow.endhonesa.com/) tries to solve and how it does so, then this [**Green Print**](./) did a poor job. In fact, a well-articulated [**Green Print**](./) is a sign of a well-thought-out organizatio&#x6E;**.**
 {% endhint %}
 
-## Freedom to [Play](bananow.land/the-mission/playing.md), [Learn](bananow.land/the-mission/learning.md), and [Work](bananow.land/the-mission/working.md) for Our Legacy.
+## Freedom to [Play](bananow-land/the-mission/playing.md), [Learn](bananow-land/the-mission/learning.md), and [Work](bananow-land/the-mission/working.md) for Our Legacy.
 
-A [**Green Print**](./) by [**The Farmers**](the-ecosystem/the-community/farmers.md) of [**BANANOW.LAND**](https://bananow.endhonesa.com/)
+A [**Green Print**](./) by [**The Farmers**](the-ecosystem/the-community/farmers.md) of [**BANANOW LAND**](https://bananow.endhonesa.com/)
 
 ***
 
 ### Table of Contents
 
 * [the-abstract.md](the-abstract.md "mention")
-* [bananow.land](bananow.land/ "mention")
-  * [the-background.md](bananow.land/the-background.md "mention")
-  * [the-mission](bananow.land/the-mission/ "mention")
-    * [playing.md](bananow.land/the-mission/playing.md "mention")
-    * [learning.md](bananow.land/the-mission/learning.md "mention")
-    * [working.md](bananow.land/the-mission/working.md "mention")
+* [bananow-land](bananow-land/ "mention")
+  * [the-background.md](bananow-land/the-background.md "mention")
+  * [the-mission](bananow-land/the-mission/ "mention")
+    * [playing.md](bananow-land/the-mission/playing.md "mention")
+    * [learning.md](bananow-land/the-mission/learning.md "mention")
+    * [working.md](bananow-land/the-mission/working.md "mention")
 * [the-overview](the-overview/ "mention")
   * [the-mapping.md](the-overview/the-mapping.md "mention")
   * [the-diagram.md](the-overview/the-diagram.md "mention")

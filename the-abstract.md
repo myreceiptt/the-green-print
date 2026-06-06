@@ -1,5 +1,5 @@
 ---
-description: What problem the BANANOW.LAND tries to solve and how it does so.
+description: What problem the BANANOW LAND tries to solve and how it does so.
 cover: .gitbook/assets/bananow-land.jpeg
 coverY: 490.04629629629636
 layout:
@@ -41,12 +41,12 @@ On the other side, the way the internet works right now is that creators and eve
 
 <figure><img src=".gitbook/assets/v.jpg" alt=""><figcaption><p>The reason why it is difficult for businesses to carry out digital transformation. Photo: <strong>Katadata</strong></p></figcaption></figure>
 
-Knowing that many creators and everyday people need assistance in digital transformation, [**BANANOW.LAND**](https://bananow.endhonesa.com/) was created to help meet these needs. We think, that by [**playing**](bananow.land/the-mission/playing.md), [**learning**](bananow.land/the-mission/learning.md), and [**working**](bananow.land/the-mission/working.md) for our creativity, we deserve more control over our creativity to be built and developed as a business.
+Knowing that many creators and everyday people need assistance in digital transformation, [**BANANOW LAND**](https://bananow.endhonesa.com/) was created to help meet these needs. We think, that by [**playing**](bananow-land/the-mission/playing.md), [**learning**](bananow-land/the-mission/learning.md), and [**working**](bananow-land/the-mission/working.md) for our creativity, we deserve more control over our creativity to be built and developed as a business.
 
 Moreover, today the industrial world has started to utilize web3 technology, namely blockchain and cryptocurrencies. By harnessing the power of web3 technology, the traditional middlemen controlling the internet are removed, creators and everyday people can have complete ownership of their original works and can build a direct connection between their business, its customers, and its users.
 
-This [**Green Print**](./) aims to describe everything [**BANANOW.LAND**](https://bananow.endhonesa.com/) related – from its [**background**](bananow.land/the-background.md), [**mission**](bananow.land/the-mission/), and [**ecosystem**](the-ecosystem/), to existing [**features brands**](the-ecosystem/the-brands/), and [**the community**](the-ecosystem/the-community/).
+This [**Green Print**](./) aims to describe everything [**BANANOW LAND**](https://bananow.endhonesa.com/) related – from its [**background**](bananow-land/the-background.md), [**mission**](bananow-land/the-mission/), and [**ecosystem**](the-ecosystem/), to existing [**features brands**](the-ecosystem/the-brands/), and [**the community**](the-ecosystem/the-community/).
 
-Additionally, the [**Green Print**](./) also includes [**the NFTs**](bananow-nfts/) of the [**BANANOW.LAND**](https://bananow.endhonesa.com/), including but not limited to its [**information**](bananow-nfts/the-information.md), [**allocation**](bananow-nfts/the-allocation.md), [**utilities**](bananow-nfts/the-utilities.md), and [**roadmap**](bananow-nfts/the-roadmap.md).
+Additionally, the [**Green Print**](./) also includes [**the NFTs**](bananow-nfts/) of the [**BANANOW LAND**](https://bananow.endhonesa.com/), including but not limited to its [**information**](bananow-nfts/the-information.md), [**allocation**](bananow-nfts/the-allocation.md), [**utilities**](bananow-nfts/the-utilities.md), and [**roadmap**](bananow-nfts/the-roadmap.md).
 
 ***

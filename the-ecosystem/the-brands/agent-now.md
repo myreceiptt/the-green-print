@@ -1,5 +1,5 @@
 ---
-description: The talent coordinator agency of BANANOW.LAND for other entities.
+description: The talent coordinator agency of BANANOW LAND for other entities.
 cover: ../../.gitbook/assets/bananow-land.jpeg
 coverY: 285.9166666666667
 layout:
@@ -34,3 +34,4 @@ How...
 And how...
 
 ***
+

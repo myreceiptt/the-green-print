@@ -1,6 +1,6 @@
 ---
 description: >-
-  Welcome to the BANANOW.LAND, where the vibes are always hype and the fun never
+  Welcome to the BANANOW LAND, where the vibes are always hype and the fun never
   stops!
 cover: ../.gitbook/assets/bananow-land.jpeg
 coverY: 515
@@ -27,15 +27,15 @@ layout:
     visible: true
 ---
 
-# 🍌 BANANOW.LAND
+# 🍌 BANANOW LAND
 
-[**BANANOW.LAND**](https://bananow.endhonesa.com/)'s vision is to build [**a fun, healthy, and mutually supportive family**](../the-ecosystem/the-community/), in an organic way. [**BANANOW.LAND**](https://bananow.endhonesa.com/) is funded from the [**BANANOW NFTs**](../bananow-nfts/) collection, which has many usabilities for holders since it is the main token to access all privileges in [**BANANOW.LAND**](https://bananow.endhonesa.com/)'s ecosystem.
+[**BANANOW LAND**](https://bananow.endhonesa.com/)'s vision is to build [**a fun, healthy, and mutually supportive family**](../the-ecosystem/the-community/), in an organic way. [**BANANOW LAND**](https://bananow.endhonesa.com/) is funded from the [**BANANOW NFTs**](../bananow-nfts/) collection, which has many usabilities for holders since it is the main token to access all privileges in [**BANANOW LAND**](https://bananow.endhonesa.com/)'s ecosystem.
 
 <figure><img src="../.gitbook/assets/FpVbaX0aMAAC7NI.jpeg" alt=""><figcaption><p><strong>BANANOW.LAND</strong></p></figcaption></figure>
 
-With a creative industry background from the founders, and with the help of web3 developers and marketers, [**BANANOW.LAND**](https://bananow.endhonesa.com/) is dedicated not just to supporting its family in creating, self-branding, and promoting, but also aims to develop the utilization of blockchain technology in a fun way.
+With a creative industry background from the founders, and with the help of web3 developers and marketers, [**BANANOW LAND**](https://bananow.endhonesa.com/) is dedicated not just to supporting its family in creating, self-branding, and promoting, but also aims to develop the utilization of blockchain technology in a fun way.
 
-The goal is to become a friendly bridge for people outside the web3 ecosystem to embrace and leverage blockchain technology. [**BANANOW.LAND**](https://bananow.endhonesa.com/) is your friendly neighborhood from web3.
+The goal is to become a friendly bridge for people outside the web3 ecosystem to embrace and leverage blockchain technology. [**BANANOW LAND**](https://bananow.endhonesa.com/) is your friendly neighborhood from web3.
 
 Yes, we know, web3 this, web3 that, web3 her, web3 him, web3 they, what the freak is web3, right?
 
