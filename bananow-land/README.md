@@ -1,9 +1,7 @@
 ---
-description: >-
-  Welcome to the BANANOW LAND, where the vibes are always hype and the fun never
-  stops!
+description: In BANANOW LAND, the digital world and the real world are not enemies.
 cover: ../.gitbook/assets/bananow-land.jpeg
-coverY: 515
+coverY: 474.7474747474747
 layout:
   width: default
   cover:
@@ -29,22 +27,79 @@ layout:
 
 # 🍌 BANANOW LAND
 
-[**BANANOW LAND**](https://bananow.endhonesa.com/)'s vision is to build [**a fun, healthy, and mutually supportive family**](../the-ecosystem/the-community/), in an organic way. [**BANANOW LAND**](https://bananow.endhonesa.com/) is funded from the [**BANANOW NFTs**](../bananow-nfts/) collection, which has many usabilities for holders since it is the main token to access all privileges in [**BANANOW LAND**](https://bananow.endhonesa.com/)'s ecosystem.
+**BANANOW LAND** is the world, field, and portal where BANANOW grows.
 
-<figure><img src="../.gitbook/assets/FpVbaX0aMAAC7NI.jpeg" alt=""><figcaption><p><strong>BANANOW.LAND</strong></p></figcaption></figure>
+It is a playful place for creative people, families, learners, builders, Web3-curious humans, AI-curious humans, and everyday people who want to understand the future without leaving their warmth behind.
 
-With a creative industry background from the founders, and with the help of web3 developers and marketers, [**BANANOW LAND**](https://bananow.endhonesa.com/) is dedicated not just to supporting its family in creating, self-branding, and promoting, but also aims to develop the utilization of blockchain technology in a fun way.
+The LAND is not only a website.
 
-The goal is to become a friendly bridge for people outside the web3 ecosystem to embrace and leverage blockchain technology. [**BANANOW LAND**](https://bananow.endhonesa.com/) is your friendly neighborhood from web3.
+It is a growing field of culture, community, education, technology, and real-world programs.
 
-Yes, we know, web3 this, web3 that, web3 her, web3 him, web3 they, what the freak is web3, right?
+BANANOW uses words like LAND, soil, seed, crop, Sprout, Head, and Farmer because growth takes care. Nothing healthy grows only because it is announced. It needs time, rhythm, water, sunlight, patience, and people who are willing to tend the field.
 
-Take it easy, we're not going to push your limit knowing it, but we're here trying our best to show you that diving into the digital world can be as easy as peeling a **BANANA**.
+In BANANOW LAND, the digital world and the real world are not enemies.
 
-Whether we're [**playing**](the-mission/playing.md), [**learning**](the-mission/learning.md), or [**working**](the-mission/working.md), together we've got your back. So, grab your lemon tea and join us for the most a-peeling adventure you'll ever have in the digital jungle!
+The digital world is where stories, tools, communities, wallets, AI assistants, on-chain records, and media can live.
 
-Always embrace all sides of yourself!
+The real world is where families, bodies, places, programs, sports, schools, work, and daily life keep everything grounded.
 
-Let’s have fun, grow, and thrive together, on-chain!
+BANANOW grows between both.
 
-***
+We sometimes call the digital world the **0101 Universe**.
+
+We call the physical world the **Universe of Reality**.
+
+BANANOW LAND stands between them as a playful bridge.
+
+Yes, Web3 this, Web3 that.
+
+Yes, AI this, AI that.
+
+Yes, the future can sound complicated.
+
+Take it easy.
+
+BANANOW is not here to push people into technology with fear, pressure, or hype.
+
+BANANOW is here to make the next layers of the web feel as friendly as peeling a banana.
+
+The LAND grows through the **Future Literacy Layer (Web3 & AI)**:
+
+- AI for thinking, creating, learning, assisting, and caring.
+- Web3 and blockchain for verifying, owning, recording, coordinating, and decentralizing participation.
+
+But technology is not the whole LAND.
+
+The LAND also grows through:
+
+- stories,
+- classes,
+- games,
+- programs,
+- family support,
+- creative economy,
+- media,
+- community rituals,
+- and real-world participation.
+
+BANANOW LAND wants to become a friendly neighborhood from the future layers of the web.
+
+A place where people can play without feeling childish.
+
+Learn without feeling late.
+
+Work without losing their dignity.
+
+And grow without pretending to be less human.
+
+Always embrace all sides of yourself.
+
+Let’s have fun, grow, and thrive together.
+
+On-chain when useful.
+
+AI-assisted when helpful.
+
+Human first, always.
+
+---
