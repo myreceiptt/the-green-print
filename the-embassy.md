@@ -1,9 +1,7 @@
 ---
-description: >-
-  Do you want to visit BANANOW? Please immediately contact the immigration
-  officer of BANANOW!
+description: Please slow down and double-check where you are going.
 cover: .gitbook/assets/bananow-land.jpeg
-coverY: 371.08333333333337
+coverY: 474.7474747474747
 layout:
   width: default
   cover:
@@ -29,41 +27,139 @@ layout:
 
 # 🍌 The Embassy
 
-Have something to say? Please use any links listed below and we will be happy to respond to you with any information you need.
+Welcome to **The Embassy**.
 
-* **BANANOW LAND** Contact Form: [**https://bananow.endhonesa.com/#embassy**](https://bananow.endhonesa.com/#embassy)
-* **BANANOW LAND** Discord: [**https://bananow.endhonesa.com/discord/**](https://bananow.endhonesa.com/discord)
-* **BANANOW LAND** X - Twitter: [**https://bananow.endhonesa.com/twitter/**](https://bananow.endhonesa.com/twitter)
-* **BANANOW LAND** Instagram: [**https://bananow.endhonesa.com/instagram/**](https://bananow.endhonesa.com/instagram)
-* **BANANOW LAND** YouTube: [**https://bananow.endhonesa.com/youtube/**](https://bananow.endhonesa.com/youtube)
+This is where visitors, Sprouts, Lovers, Heads, Farmers, partners, and future friends can find the official doors into BANANOW LAND.
 
-Please find any information before contacting us by accessing the important links below.
+Before entering any BANANOW-related page, link, NFT page, community channel, or external platform, please slow down and double-check where you are going.
 
-* **BANANOW LAND** Website: [**https://bananow.endhonesa.com/**](https://bananow.endhonesa.com/)
-* **BANANOW LAND** Green Print: [**https://bananowgp.endhonesa.com/**](https://bananowgp.endhonesa.com/)
-* **BANANOW LAND** News: [**https://nanownews.endhonesa.com/**](https://nanownews.endhonesa.com/)
-* **BANANOW BASED NFTs** Minting Page: [**https://bananownfts.endhonesa.co,/**](https://bananownfts.endhonesa.com/)
-* **BANANOW BASED NFTs** on BaseScan: [**https://bananow.endhonesa.com/basescan/**](https://bananow.endhonesa.com/basescan/)
-* **BANANOW BASED NFTs** on OpenSea: [**https://bananow.endhonesa.com/base/**](https://bananow.endhonesa.com/base/)
+The LAND is playful.
 
-FYI, besides [**BANANOW NFTs**](bananow-nfts/), there are additional **BANANOW Tokens** out there, and below is the list.
+The internet is not always friendly.
 
-* **Lord of BANANOW** - **Deprecated Contract**: [**https://bananow.endhonesa.com/lord/**](https://bananow.endhonesa.com/lord/)
-* **BANANOW Tree** - **Deprecated Contract**: [**https://bananow.endhonesa.com/tree/**](https://bananow.endhonesa.com/tree/)
-* **BANANOW NFTs** - **Deprecated Contract**: [**https://bananow.endhonesa.com/opensea/**](https://bananow.endhonesa.com/opensea/)
-* **LadyME NFTs** on **Tezos**: [**https://bananow.endhonesa.com/ladyme/**](https://bananow.endhonesa.com/ladyme/)
-* **The ROTY BROI NFTs** on **Polygon**: [**https://bananow.endhonesa.com/rotybroi/**](https://bananow.endhonesa.com/rotybroi/)
-* **Born2Burn NFTs** on **Tezos**: [**https://bananow.endhonesa.com/born2burn/**](https://bananow.endhonesa.com/born2burn/)
-* **Escapeace NOWART 1o1 NFTs**: [**https://bananow.endhonesa.com/escapeace/**](https://bananow.endhonesa.com/escapeace/)
+## Official Doors
 
-Please only access all the links above. Always double-check for any link you try to access.
+The official home of BANANOW LAND is:
 
-***
+- **BANANOW LAND Website**
+  `https://land.endhonesa.com`
+
+The official Green Print lives here:
+
+- **The Green Print**
+  `https://bananowgp.endhonesa.com`
+
+These are the main doors for understanding BANANOW’s public direction, LAND, Crops, FAMILY, and Future Literacy Layer (Web3 & AI).
+
+## Main Crops
+
+BANANOW LAND may grow through several Future Proof Crops.
+
+When available, official crop pages should be accessed only through BANANOW’s official website and official links.
+
+Future Proof Crops include:
+
+- **Na Now News**
+  BANANOW’s media, storytelling, updates, and public memory crop.
+
+- **Skool Now**
+  BANANOW’s education, program, hobby, sport, and community learning crop.
+
+- **Claps**
+  BANANOW’s parenting and family support crop connected to AI-aware care and learning.
+
+- **BANANOW NFT / Heads**
+  BANANOW’s Web3 collectible, identity, and community participation crop.
+
+If a crop link, NFT page, marketplace page, claim page, community link, or campaign is not connected to BANANOW’s official channels, treat it carefully.
+
+## Contact and Community
+
+For contact, collaboration, community participation, or public communication, visitors should start from the official BANANOW LAND website.
+
+Official contact and community links may include:
+
+- contact forms,
+- social media accounts,
+- community channels,
+- news pages,
+- NFT-related pages,
+- program pages,
+- and future official announcements.
+
+The Green Print does not list every possible link forever.
+
+The LAND may grow.
+
+The official website should remain the main starting point.
+
+## Historical and Earlier Links
+
+BANANOW may also have historical pages, earlier NFT contracts, earlier experiments, archived links, or Earlier Crops from previous seasons.
+
+These may still be part of BANANOW’s roots, memory, and soil.
+
+But historical links should not automatically be treated as current active programs, current official campaigns, or current NFT instructions.
+
+When in doubt, return to the official BANANOW LAND website first.
+
+## Safety Note
+
+Please stay alert.
+
+Before interacting with any BANANOW-related link:
+
+- double-check the URL,
+- avoid random links from unknown people,
+- do not connect your wallet carelessly,
+- do not trust pressure,
+- do not treat speculation as official information,
+- do not assume any NFT gives guaranteed profit, revenue, utility, marketplace liquidity, reward, or future access.
+
+BANANOW NFT may be playful.
+
+Your wallet should stay awake.
+
+BANANOW may use Web3.
+
+Your caution should stay human.
+
+BANANOW may explore AI.
+
+Your judgment should not be replaced.
+
+## Embassy Principle
+
+The Embassy is not a wall.
+
+It is a door.
+
+A door into the LAND.
+
+A door into the Crops.
+
+A door into the FAMILY.
+
+A door into the Future Literacy Layer (Web3 & AI).
+
+Enter slowly.
+
+Read carefully.
+
+Ask kindly.
+
+Verify before you click.
+
+And welcome to the field.
+
+---
 
 P.S.
 
 The official domain for **BANANOW LAND** is **BANANOW dot LAND**, including all of its subdomains. [**Prof. NOTA Inc.**](https://nota.straight-line.org/) is responsible for the website's availability, but this does not include the domain's availability. So, [**Prof. NOTA Inc.**](https://nota.straight-line.org/) provides alternate addresses using some subdomains of **ENDHONESA dot COM** as our guarantee of website availability.
 
-Stay alert! Beware of scams! Hack them all, ethically!
+Stay alert! Beware of scams!
 
 \==== 47 =======
+
+---

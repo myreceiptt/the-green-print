@@ -1,7 +1,7 @@
 ---
-description: An organizational white paper explaining how the BANANOW LAND will be running.
+description: The Green Print of BANANOW LAND is the root document of BANANOW LAND.
 cover: .gitbook/assets/bananow-land.jpeg
-coverY: 458.5333333333333
+coverY: 474.7474747474747
 layout:
   width: default
   cover:
@@ -27,49 +27,88 @@ layout:
 
 # 🍌 The Green Print
 
-Good morning, [**OiOi Fams**](the-ecosystem/the-community/)! Welcome to [**BANANOW LAND Green Print**](./)!
+Good morning, OiOi Fams.
 
-{% hint style="success" %}
-The [**Green Print**](./) is some kind of organizational white paper explaining how the [**BANANOW LAND**](https://bananow.endhonesa.com/) will be running. By the end of this [**Green Print**](./) if you can't articulate what problem the [**BANANOW LAND**](https://bananow.endhonesa.com/) tries to solve and how it does so, then this [**Green Print**](./) did a poor job. In fact, a well-articulated [**Green Print**](./) is a sign of a well-thought-out organizatio&#x6E;**.**
-{% endhint %}
+Welcome to **The Green Print**, the root document of **BANANOW LAND**.
 
-## Freedom to [Play](bananow-land/the-mission/playing.md), [Learn](bananow-land/the-mission/learning.md), and [Work](bananow-land/the-mission/working.md) for Our Legacy.
+This document explains the soil, the seeds, the Crops, the FAMILY, and the direction of BANANOW as a playful LAND for creators, families, learners, builders, and everyday people who want to grow with future technology without losing their human warmth.
 
-A [**Green Print**](./) by [**The Farmers**](the-ecosystem/the-community/farmers.md) of [**BANANOW LAND**](https://bananow.endhonesa.com/)
+BANANOW LAND grows around one simple spirit:
 
-***
+## Freedom to Play, Learn, and Work for Our Legacy.
+
+The Green Print is not a legal document, not a financial promise, not a marketplace proposal, not a tokenomics paper, and not a constantly updated operating log.
+
+It is a canonical document.
+
+It helps every Sprout, Lover, Head, Farmer, visitor, partner, and future friend understand what BANANOW is trying to grow, why the LAND exists, and how BANANOW keeps its playful direction while moving through the changing digital world.
+
+BANANOW plays, learns, and works across:
+
+- creative culture,
+- community life,
+- real-world programs,
+- education,
+- parenting and family support,
+- Web3 and blockchain literacy,
+- AI literacy,
+- and the everyday need to stay human inside technology.
+
+We call this direction the **Future Literacy Layer (Web3 & AI)**.
+
+AI can help people think, create, learn, process, assist, and care.
+
+Blockchain and Web3 can help people verify, own, record, coordinate, and decentralize participation.
+
+BANANOW does not treat these technologies as hype. BANANOW treats them as tools that should feel more playful, more useful, and more human.
+
+Inside this Green Print, you will find:
+
+- **BANANOW LAND** — the field where everything grows.
+- **The Roots** — the first seeds and the soil behind the LAND.
+- **The Mission** — Playing, Learning, and Working.
+- **The Map** — how the LAND, Crops, FAMILY, NFT layer, and Future Literacy Layer connect.
+- **The Ecosystem** — the Crops and the FAMILY.
+- **BANANOW NFT** — the collectible and Web3 identity layer connected to Heads.
+- **The Embassy** — the official doors into BANANOW.
+- **Final Note** — the closing seed of this canonical document.
+
+The LAND may keep growing.
+
+The Crops may change with the season.
+
+The FAMILY may become bigger, smaller, louder, quieter, or stranger.
+
+But the root stays here:
+
+**Let’s play. Let’s learn. Let’s work. Let’s grow together.**
+
+Welcome to BANANOW LAND.
+
+---
 
 ### Table of Contents
 
-* [the-abstract.md](the-abstract.md "mention")
-* [bananow-land](bananow-land/ "mention")
-  * [the-background.md](bananow-land/the-background.md "mention")
-  * [the-mission](bananow-land/the-mission/ "mention")
-    * [playing.md](bananow-land/the-mission/playing.md "mention")
-    * [learning.md](bananow-land/the-mission/learning.md "mention")
-    * [working.md](bananow-land/the-mission/working.md "mention")
-* [the-overview](the-overview/ "mention")
-  * [the-mapping.md](the-overview/the-mapping.md "mention")
-  * [the-diagram.md](the-overview/the-diagram.md "mention")
-  * [the-treasury.md](the-overview/the-treasury.md "mention")
-* [the-ecosystem](the-ecosystem/ "mention")
-  * [the-brands](the-ecosystem/the-brands/ "mention")
-    * [90s-vibes.md](the-ecosystem/the-brands/90s-vibes.md "mention")
-    * [dermaga-web3.md](the-ecosystem/the-brands/dermaga-web3.md "mention")
-    * [class-now.md](the-ecosystem/the-brands/class-now.md "mention")
-    * [inamotion.md](the-ecosystem/the-brands/inamotion.md "mention")
-    * [agent-now.md](the-ecosystem/the-brands/agent-now.md "mention")
-    * [notas-dept..md](the-ecosystem/the-brands/notas-dept..md "mention")
-  * [the-community](the-ecosystem/the-community/ "mention")
-    * [sprouts.md](the-ecosystem/the-community/sprouts.md "mention")
-    * [lovers.md](the-ecosystem/the-community/lovers.md "mention")
-    * [heads.md](the-ecosystem/the-community/heads.md "mention")
-    * [farmers.md](the-ecosystem/the-community/farmers.md "mention")
-* [bananow-nfts](bananow-nfts/ "mention")
-  * [the-information.md](bananow-nfts/the-information.md "mention")
-  * [the-allocation.md](bananow-nfts/the-allocation.md "mention")
-  * [the-utilities.md](bananow-nfts/the-utilities.md "mention")
-  * [the-roadmap.md](bananow-nfts/the-roadmap.md "mention")
-* [the-embassy.md](the-embassy.md "mention")
+- [🍌 The Green Print](README.md "mention")
+- [🍌 The Abstract](the-abstract.md "mention")
+- [🍌 BANANOW LAND](bananow-land/README.md "mention")
+  - [🍌 The Roots](bananow-land/the-roots.md "mention")
+  - [🍌 The Mission](bananow-land/the-mission/README.md "mention")
+    - [🍌 Playing](bananow-land/the-mission/playing.md "mention")
+    - [🍌 Learning](bananow-land/the-mission/learning.md "mention")
+    - [🍌 Working](bananow-land/the-mission/working.md "mention")
+- [🍌 The Map](the-map.md "mention")
+- [🍌 The Ecosystem](the-ecosystem/README.md "mention")
+  - [🍌 The Crops](the-ecosystem/the-crops/README.md "mention")
+    - [🍌 Future Proof Crops](the-ecosystem/the-crops/future-proof-crops.md "mention")
+    - [🍌 Earlier Crops](the-ecosystem/the-crops/earlier-crops.md "mention")
+  - [🍌 The FAMILY](the-ecosystem/the-family/README.md "mention")
+    - [🍌 Sprouts](the-ecosystem/the-family/sprouts.md "mention")
+    - [🍌 Lovers](the-ecosystem/the-family/lovers.md "mention")
+    - [🍌 Heads](the-ecosystem/the-family/heads.md "mention")
+    - [🍌 Farmers](the-ecosystem/the-family/farmers.md "mention")
+- [🍌 BANANOW NFT](bananow-nft/README.md "mention")
+- [🍌 The Embassy](the-embassy.md "mention")
+- [🍌 Final Note](the-final-note.md "mention")
 
-***
+---
