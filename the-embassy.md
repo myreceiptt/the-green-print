@@ -156,7 +156,7 @@ And welcome to the field.
 
 P.S.
 
-The official domain for **BANANOW LAND** is **BANANOW dot LAND**, including all of its subdomains. [**Prof. NOTA Inc.**](https://nota.straight-line.org/) is responsible for the website's availability, but this does not include the domain's availability. So, [**Prof. NOTA Inc.**](https://nota.straight-line.org/) provides alternate addresses using some subdomains of **ENDHONESA dot COM** as our guarantee of website availability.
+The official domain for **BANANOW LAND** is **BANANOW dot LAND**, including all of its subdomains. [**Prof. NOTA Inc.**](https://nota.endhonesa.com/) is responsible for the website's availability, but this does not include the domain's availability. So, [**Prof. NOTA Inc.**](https://nota.endhonesa.com/) provides alternate addresses using some subdomains of **ENDHONESA dot COM** as our guarantee of website availability.
 
 Stay alert! Beware of scams!
 
